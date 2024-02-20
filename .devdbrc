@@ -1,0 +1,14 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/janewmwaura/phase3Bankproject/Bank-Customer-Experience-Feedback-System/lib/db/branches.db"
+  },
+  {
+    "type": "sqlite",
+    "path": "/home/janewmwaura/phase3Bankproject/Bank-Customer-Experience-Feedback-System/lib/db/branches"
+  },
+  {
+    "type": "sqlite",
+    "path": "/home/janewmwaura/phase3Bankproject/Bank-Customer-Experience-Feedback-System/lib/branches.db"
+  }
+]
